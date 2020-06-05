@@ -1,4 +1,5 @@
-☄️ # find-close-meteorites
+☄️
+# find-close-meteorites
 A demo project that uses NASA data and Python to find meteor landing sites (sort of) near you! 
 
 #To Run: 
