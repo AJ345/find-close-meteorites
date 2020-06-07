@@ -7,4 +7,4 @@ Required:
 - Python 3 
 - Math and requests packages 
 
-`python find_meteor_sites.py`
+`python findmeteorsites.py`
